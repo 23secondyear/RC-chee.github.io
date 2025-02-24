@@ -1,4 +1,6 @@
-git branch -m main index
-git fetch origin
-git branch -u origin/index index
-git remote set-head origin -a
+git add .
+git commit -m "Added index.html for GitHub Pages"
+git push origin main
+
+
+https://RC-chee.github.io
