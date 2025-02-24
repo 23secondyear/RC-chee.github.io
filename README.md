@@ -1,9 +1,9 @@
-# RC-chee.github.ioM 🚀
+# RC-chee.github.io 🚀
 
 Welcome to **RC-chee.github.ioM** – a web-based project hosted using GitHub Pages.
 
 ## 🌐 Live Demo  
-Check out the live version here: [RC-chee.github.ioM](https://RC-chee.github.ioM)
+Check out the live version here: [RC-chee.github.ioM](https://RC-chee.github.io)
 
 ## 📌 About  
 **RC-chee.github.ioM** is a [briefly describe the purpose, e.g., personal website, portfolio, blog, or web app].  
